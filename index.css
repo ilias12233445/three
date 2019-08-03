@@ -1,0 +1,42 @@
+body {
+	background-image: url(https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/96100/b634bae382254704dbbfa6568c1664df51f0f577.jpg);
+}
+h4 {
+	color: white;
+}
+input {
+	display: flex;
+	justify-content: flex-end;
+}
+small {
+	color: white;
+}
+label {
+	color: white;
+}
+h1 {
+	color: white;
+}
+h3 {
+	color: white;
+}
+p {
+	color: black;
+}
+h5 {
+	color: black;
+}
+h2 {
+	color: white;
+}
+ {
+	display: flex;
+	justify-content: center;
+}
+ 
+
+.animated{
+	font-size: 25px;
+	color: white;
+}
+
